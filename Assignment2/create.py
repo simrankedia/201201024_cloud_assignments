@@ -16,6 +16,7 @@ def emptyNet():
     print 'Controller Added\n'
     e=1
     o=1
+    #print "Working"
     hosts=[]
     switches=[]
     e_ip='11.0.0.'
